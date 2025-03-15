@@ -1,4 +1,4 @@
-# Web App
+# Django Web App Skeleton for Learning
 
 ## Overview
 This is a basic Django project structure intended for **exploring the default Django skeleton**. It provides a foundation for learning Django by allowing users to build upon its existing configuration. The project currently contains default settings but does not include any models, views, templates, or static files.
